@@ -2,7 +2,7 @@
 
 For more convenient access to Amazon selling partner API docs, I have created a website. For faster access to docs, if it is useful to you, please give me a star
 
-[spapi.cyou](https://spapi.cyou)
+[spapi.cyou](https://spapi.cyou?utm_source=github)
 
 The document contains Chinese and English, and Chinese is still being translated
 
