@@ -7,6 +7,12 @@ For more convenient access to Amazon selling partner API docs, I have created a 
 
 The document contains Chinese and English, and Chinese is still being translated
 
+Whether you are a developer of Java, PHP, golang nodejs or other languages, this document can help you
 
-![image](https://user-images.githubusercontent.com/43982160/129752055-e71ae56d-fbb9-4bc8-8fa5-d5d567f93cdd.png)
+
+
+![image](https://user-images.githubusercontent.com/43982160/130359352-2c7e4f87-d949-45c7-9ef3-937ececc6db7.png)
+
+![image](https://user-images.githubusercontent.com/43982160/130359371-57b8c92f-db32-42e0-9ca7-3bbfad88168a.png)
+
 
