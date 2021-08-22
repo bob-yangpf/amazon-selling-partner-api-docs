@@ -1,4 +1,5 @@
 # amazon-selling-partner-api-docs
+sp api
 
 For more convenient access to Amazon selling partner API docs, I have created a website. For faster access to docs, if it is useful to you, please give me a star
 
